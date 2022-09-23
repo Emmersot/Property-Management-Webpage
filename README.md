@@ -4,4 +4,4 @@
 * 3:00: implement partial navbar 
 
 #### Friday, 09/23
-* 
+* 11:00 research API endpoints
