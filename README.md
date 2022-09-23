@@ -5,3 +5,4 @@
 
 #### Friday, 09/23
 * 11:00 research API endpoints
+* 12:00 research software to help
