@@ -18,7 +18,7 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 * _JavaScript_
 * _noSQL_
 * _Firebase_
-* _Firebase authentification_
+* _Firebase authentication_
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 * _CSS overhaul, transitions, navbar, search functionality_
