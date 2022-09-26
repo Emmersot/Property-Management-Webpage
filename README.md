@@ -1,3 +1,8 @@
+## Description
+
+* _This is a webpage is used to showcase properties now and in the future to be listed for rental and accessible to the public with detailed information regarding : prices, location, travel details, property information, already scheduled dates. People interested in renting will be able to login to make altercations to the sites calender. Possible expansion into having onsite payment abilities._
+
+
 ### Research & Planning Log
 #### Friday, 09/16
 * 12:20: research navbar setups
