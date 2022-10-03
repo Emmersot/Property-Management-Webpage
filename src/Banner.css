@@ -1,5 +1,8 @@
 .banner {
   height: 50vh;
   position: relative;
-  background : src= center center;
+}
+.banner__background {
+  height: 50vh;
+  position: center;
 }
