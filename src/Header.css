@@ -1,0 +1,15 @@
+/* .header {
+  display: flex;
+} */
+.header__icon {
+  object-fit:contain;
+  height: 100px;
+  align-items: center;
+}
+.header__icon2 {
+  object-fit:contain;
+  height: 120px;
+  margin-left: -63px;
+  margin-bottom: -15px;
+  align-items: center;
+}
