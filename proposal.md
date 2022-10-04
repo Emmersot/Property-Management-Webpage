@@ -13,12 +13,14 @@ List the absolute minimum features the project requires to meet this purpose or 
 What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 ## Technologies Used
 
-* _API_
+* _API's_
 * _React_
 * _JavaScript_
-* _noSQL_
+<!-- * _noSQL_ -->
 * _Firebase_
+* _Firestore_
 * _Firebase authentication_
+* _Node_
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 * _CSS overhaul, transitions, navbar, search functionality_
