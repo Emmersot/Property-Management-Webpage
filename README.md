@@ -1,6 +1,6 @@
 ## Description
 
-* _This is a webpage is used to showcase properties now and in the future to be listed for rental and accessible to the public with detailed information regarding : prices, location, travel details, property information, already scheduled dates. People interested in renting will be able to login to make altercations to the sites calender. Possible expansion into having onsite payment abilities._
+* _This is a webpage is used to showcase properties to be listed for rental with detailed information regarding : prices, location, travel details, property information, already booked dates. People interested in renting will be able to login to make alterations to the sites calender for booking. Possible expansion into having onsite payment abilities._
 ## Technologies Used
 
 * _API's_
