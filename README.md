@@ -11,6 +11,9 @@
 * _Firestore_
 * _Firebase authentication_
 * _Node_
+* _MUI Core_
+* _React date range_
+
 ### Research & Planning Log
 #### Friday, 09/16
 * 12:20: research navbar setups
