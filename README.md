@@ -30,3 +30,11 @@
 #### Monday, 10/3
 
 * 11:00 research navbar designs
+
+#### Tuesday, 10/4
+
+* 9:00 research payment methods on site - cost money
+* 10:00 research css for image scaling
+* 10:30 research design themes for cards
+* 11:00 setup firebase 
+* 11:30 get old photos from people for cards
