@@ -18,11 +18,13 @@ function Banner() {
             variant='outlined'>{showSearch ? "Hide" : "Search Dates"}</Button>
         </div>
         <div className='banner__info'>
+          <div className='banner__text'>
           <h1>Get out and stretch your imagination</h1>
           <h3>
             Plan a different kind of getaway to uncover the hidden gems near you.
           </h3>
           <Button>Explore Nearby</Button>
+          </div>
         </div>
       </div>
     </div>
