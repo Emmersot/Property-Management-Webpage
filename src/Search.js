@@ -27,12 +27,10 @@ function Search() {
     <div className='search'>
       <DateRangePicker ranges={[selectionRange]} onChange={handleSelect} />
       <h2>
-        Number of guests
-        <PersonIcon />
-      </h2>
-      <input min={0}
-      defaultValue={2}
-      type="number" />
+        Number of guests <input min={0}
+      defaultValue={1}
+      type="number" /><PersonIcon /></h2>
+
       <Button>Search Listings</Button>
     </div>
   )

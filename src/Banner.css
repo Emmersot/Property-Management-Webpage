@@ -1,6 +1,7 @@
 .banner {
   height: 80vh;
   position: relative;
+
 }
 
 .banner__search {
@@ -14,8 +15,9 @@
   background: url("https://images.unsplash.com/photo-1501446529957-6226bd447c46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80") ;
   object-fit: cover;
   background-repeat: no-repeat;
+  background-size: 100%;
   /* background-position: right 20px; */
-  height: 70vh;
+  height: 80vh;
   /* padding-bottom: 144px; */
   /* float: right; */
   /* width: 70%; */
@@ -25,22 +27,23 @@
   overflow: hidden; */
 }
 .banner__info {
-  background-color: black;
-  color: white;
-  padding-top: 1px;
+  color: rgb(2, 0, 0);
+  padding-top: 300px;
   padding-left: 30px;
   padding-right: 30px;
-    height: 70vh;
-  /* width: 300px; */
-  width: 20%;
-  /* float: left; */
+  height: 80vh;
+  text-align: center;
+  justify-content: center;
+
 }
 
 .banner__searchButton {
-background-color: white !important;
-font-weight: 900 !important;
-text-transform: inherit !important;
-color: #ff7779 !important;
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important;
+  border-color: blueviolet;
+
 }
 
 .banner__info > button {
@@ -49,14 +52,21 @@ color: #ff7779 !important;
   text-transform: inherit;
   margin-top: 20px;
   font-weight: 600;
+  
 }
 
 .banner__info > button:hover {
   background-color: white;
   color: #ff7779;
+  
 }
 
 
 .banner__info > h5 {
   margin-top: 10px;
 }
+
+.banner__text > h2 {
+  font-weight: 900;
+}
+

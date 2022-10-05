@@ -19,11 +19,10 @@ function Banner() {
         </div>
         <div className='banner__info'>
           <div className='banner__text'>
-          <h1>Get out and stretch your imagination</h1>
-          <h3>
-            Plan a different kind of getaway to uncover the hidden gems near you.
-          </h3>
-          <Button>Explore Nearby</Button>
+            <h2>Not sure where to go?</h2>
+            <h1>Perfect</h1>
+            <h2><strong>Plan a getaway near you</strong></h2>
+            <Button>Explore Nearby</Button>
           </div>
         </div>
       </div>
