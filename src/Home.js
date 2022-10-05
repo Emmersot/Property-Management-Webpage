@@ -10,7 +10,7 @@ function Home() {
       
       {/* <div class="container"> */}
         <div className='home__section'>
-          <div class="col-12 col-md-6 col-lg-3">
+          <div class="col-12 col-md-6 col-lg-2">
             <Card
               src="./house1.jpg"
               title="3 Bedroom Flat in Bournemouth"
@@ -18,7 +18,7 @@ function Home() {
               price="£130/night"
               />
             </div>
-            <div class="col-12 col-md-6 col-lg-3">
+            <div class="col-12 col-md-6 col-lg-2">
             <Card
               src="./house1.jpg"
               title="Penthouse in London"
@@ -26,14 +26,14 @@ function Home() {
               price="£350/night"
               />
             </div>
-            <div class="col-12 col-md-6 col-lg-3">
+            <div class="col-12 col-md-6 col-lg-2">
             <Card
               src="./house1.jpg"
               title="1 Bedroom apartment"
               description="Superhost with great amenities and a fabolous shopping complex nearby"
-              price="£70/night"
+              price="$170/night"
               />
-            <div class="col-12 col-md-6 col-lg-3"> 
+            <div class="col-12 col-md-6 col-lg-2"> 
             <Card
               src="./house1.jpg"
               title="1 Bedroom apartment"
@@ -42,7 +42,7 @@ function Home() {
             />
             </div> 
           </div>
-    </div>
+      </div>
   </div>
   )
 }
