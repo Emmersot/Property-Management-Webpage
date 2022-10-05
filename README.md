@@ -6,7 +6,6 @@
 * _API's_
 * _React_
 * _JavaScript_
-<!-- * _noSQL_ -->
 * _Firebase_
 * _Firestore_
 * _Firebase authentication_
