@@ -5,10 +5,11 @@ import "react-date-range/dist/styles.css";
 import "react-date-range/dist/theme/default.css";
 import Button from '@mui/material/Button';
 import PersonIcon from '@mui/icons-material/Person';
-
+import { useNavigate } from 'react-router-dom';
 
 
 function Search() {
+  const navigate = useNavigate();
   const [startDate, setStartDate] = useState(new Date());
   const [endDate, setEndDate] = useState(new Date());
 
@@ -29,8 +30,7 @@ function Search() {
       <h2>
         Number of guests <input min={0}defaultValue={1}type="number" /><PersonIcon />
       </h2>
-
-      <Button>Search Listings</Button>
+        <Button onClick={() => navigate('./search')}>Search Listings</Button>
     </div>
   )
 }

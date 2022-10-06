@@ -11,21 +11,19 @@ function Banner() {
 
   return (
     <div className='banner'>
-      <div className='banner__background'>
-        <div className='banner__search'>
-          {showSearch && <Search />}
+      <div className='banner__search'>
+        {showSearch && <Search />}
 
-          <Button onClick={() => setShowSearch(!showSearch)}
-            className='banner__searchButton'
-            variant='outlined'>{showSearch ? "Hide" : "Search Dates"}</Button>
-        </div>
-        <div className='banner__info'>
-          <div className='banner__text'>
-            <h2>Not sure where to go?</h2>
-            <h1>Perfect</h1>
-            <h2><strong>Plan a getaway</strong></h2>
-            <Button onClick={() => navigate('/search')}>Explore Nearby</Button>
-          </div>
+        <Button onClick={() => setShowSearch(!showSearch)}
+          className='banner__searchButton'
+          variant='outlined'>{showSearch ? "Hide" : "Search Dates"}</Button>
+      </div>
+      {/* Banner bottom left text */}
+      <div className='banner__info'>
+        <div className='banner__text'>
+          <h1>Not sure where to go?</h1>
+          <h1>Plan a getaway</h1>
+          <Button onClick={() => navigate('/search')}>Explore Nearby</Button>
         </div>
       </div>
     </div>

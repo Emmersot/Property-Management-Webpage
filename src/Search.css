@@ -35,13 +35,13 @@
     position: absolute;
     left: 0;
     top: 432px;
-    text-transform: inherit !important;
-    background-color: #ff7779;
-    color: white;
+    text-transform: inherit;
+    background-color: white;
+    color: black;
     width: 579px;
   }
 
 .search > button:hover {
-    background-color: white;
-    color: #ff7779;
+    background-color: black;
+    color: white;
 }
