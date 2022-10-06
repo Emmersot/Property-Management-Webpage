@@ -4,6 +4,7 @@ import Home from './Home'
 import Header from './Header'
 import Footer from './Footer'
 import SearchPage from './SearchPage'
+import SearchResult from './SearchResult'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 

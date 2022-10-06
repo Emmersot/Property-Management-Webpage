@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import './Search.css'
+import './Search.css';
 import { DateRangePicker } from "react-date-range";
 import "react-date-range/dist/styles.css";
 import "react-date-range/dist/theme/default.css";
@@ -27,9 +27,8 @@ function Search() {
     <div className='search'>
       <DateRangePicker ranges={[selectionRange]} onChange={handleSelect} />
       <h2>
-        Number of guests <input min={0}
-      defaultValue={1}
-      type="number" /><PersonIcon /></h2>
+        Number of guests <input min={0}defaultValue={1}type="number" /><PersonIcon />
+      </h2>
 
       <Button>Search Listings</Button>
     </div>

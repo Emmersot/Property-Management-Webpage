@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
-import './Banner.css'
+import React, { useState } from 'react';
+import './Banner.css';
 import Button from '@mui/material/Button';
-import Search from './Search'
+import Search from './Search';
 
 
 function Banner() {

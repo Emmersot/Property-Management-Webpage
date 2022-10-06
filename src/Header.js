@@ -1,5 +1,5 @@
 import React from 'react' ;
-import './Header.css'
+import './Header.css';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import SearchIcon from '@mui/icons-material/Search';
 
