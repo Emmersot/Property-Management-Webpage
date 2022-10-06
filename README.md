@@ -12,6 +12,8 @@
 * _Node_
 * _MUI Core_
 * _React date range_
+* _React router dom_
+
 
 ### Research & Planning Log
 #### Friday, 09/16

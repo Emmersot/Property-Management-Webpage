@@ -21,7 +21,7 @@ function Banner() {
           <div className='banner__text'>
             <h2>Not sure where to go?</h2>
             <h1>Perfect</h1>
-            <h2><strong>Plan a getaway near you</strong></h2>
+            <h2><strong>Plan a getaway</strong></h2>
             <Button>Explore Nearby</Button>
           </div>
         </div>
