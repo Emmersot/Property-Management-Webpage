@@ -42,8 +42,8 @@
 
 .searchResult__infoTop > p {
   margin-top: 10px;
-  font-size: 13px;
-  color: gray;
+  font-size: 17px;
+  color: rgb(0, 0, 0);
 }
 
 .searchResult__infoBottom {

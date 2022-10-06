@@ -1,5 +1,5 @@
 import React from 'react' ;
-import './Header.css';
+import '.././Header.css';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import SearchIcon from '@mui/icons-material/Search';
 import { Link } from "react-router-dom";
@@ -22,7 +22,9 @@ function Header() {
       </div>
 
       <div className='header__right'>
-        <p>Become a host</p>
+        <p>
+          <Link to="/sign-in">Sign In</Link>
+        </p>
         <AccountCircleIcon />
       </div>
     </div>

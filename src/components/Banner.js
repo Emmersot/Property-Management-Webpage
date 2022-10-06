@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Banner.css';
+import '.././Banner.css';
 import Button from '@mui/material/Button';
 import Search from './Search';
 import { useNavigate } from "react-router-dom";

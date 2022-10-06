@@ -1,10 +1,14 @@
+.searchPage {
+  background-color: rgba(104, 161, 118, 0.798);
+}
 .searchPage__info {
   padding: 20px;
 }
 
 .searchPage__info > p {
   margin-bottom: 10px;
-  font-size: 14px;
+  font-size: 17px;
+  color: rgb(0, 0, 0);
 }
 
 .searchPage__info > h1 {
@@ -17,6 +21,12 @@
   border-radius: 30px;
   text-transform: inherit;
   margin: 5px;
+  color: bisque;
+  border-color: aliceblue;
 }
 
+.searchPage__info > button:hover {
+  color: rgb(229, 137, 25);
+  border-color: rgb(26, 105, 174);
+}
 
