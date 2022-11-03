@@ -21,12 +21,12 @@
   border-radius: 30px;
   text-transform: inherit;
   margin: 5px;
-  color: bisque;
-  border-color: aliceblue;
+  color: rgb(0, 0, 0);
+  border-color: rgb(0, 0, 0);
 }
 
 .searchPage__info > button:hover {
-  color: rgb(229, 137, 25);
-  border-color: rgb(26, 105, 174);
+  color: rgb(255, 255, 255);
+  border-color: rgb(255, 255, 255);
 }
 

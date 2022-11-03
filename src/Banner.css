@@ -16,19 +16,20 @@
 .banner__search {
     display: flex;
     flex-direction: column;
+    background-color: white;
     
 }
 
 .banner__searchButton {
-  background-color: white ;
+  background-color: rgb(0, 0, 0) ;
   font-weight: 900 ;
-  text-transform: inherit ;
+  text-transform:initial ;
   color: #304a00 ;
   
 }
 
 .banner__text > button {
-    background-color: #304a00;
+    background-color: #000000c8;
     color: white;
     text-transform: inherit;
     margin-top: 20px;

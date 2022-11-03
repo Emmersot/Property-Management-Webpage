@@ -10,7 +10,7 @@
 * _Firestore_
 * _Firebase authentication_
 * _Node_
-* _MUI Core_
+* _MaterialUI Core_
 * _React date range_
 * _React router dom_
 
